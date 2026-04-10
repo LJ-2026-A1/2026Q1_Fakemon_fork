@@ -6,8 +6,8 @@
   "type": "Normal",
 
   
-  "hp": 115,       
-  "power": 80,    
+  "hp": 102,       
+  "power": 75,    
   "speed": 95,     
   "defense": 35,  
   "accuracy": 90, 
@@ -23,8 +23,8 @@
       "desc": "cooks some not so healthy stuff for the other fakemon",
       "speed": "slow",
       "damage": [10, 27],
-      "status": null,
-      "statusChance": 0
+      "status": "poison",
+      "statusChance": 0.85
     },
 
     
@@ -33,7 +33,7 @@
       "name": "Glock",
       "desc": "Uh Oh, you made Walter angry...",
       "speed": "fast",
-      "damage": [20, 45],
+      "damage": [15, 40],
       "status": null,
       "statusChance": 0
     },
@@ -56,7 +56,7 @@
       "speed": "slow",
       "damage": [-5, -10],
       "status": "statdwn",
-      "statusChance": 1.0
+      "statusChance": 0.95
     }
 
    

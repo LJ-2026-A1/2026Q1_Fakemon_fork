@@ -20,11 +20,11 @@
     {
       "id": "Harden",
       "name": "🧱 Hard",
-      "desc": "Makes the opponent feel pain after they hit, because it hurts to hit a wall. Has a chance to increase DEF",
+      "desc": "Makes the opponent feel pain after they hit, because it hurts to hit a wall. Has a chance to flinsh the opponent",
       "speed": "slow",
-      "damage": [7, 12],
-      "status": null,
-      "statusChance": 0
+      "damage": [9, 17],
+      "status": "flinch",
+      "statusChance": 0.6
     },
 
     
@@ -34,8 +34,8 @@
       "desc": "Its a wall. what is it supposd to do?",
       "speed": "medium",
       "damage": [0, 0],
-      "status": null,
-      "statusChance": 0
+      "status": "statup",
+      "statusChance": 0.2
     },
 
     
