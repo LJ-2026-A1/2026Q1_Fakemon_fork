@@ -22,7 +22,7 @@
       "statusChance": 0.5
     },
     {
-      "id":           "move_two",
+      "id":           "move_tw",
       "name":         "Suburban neighborhood privilage",
       "desc":         "A harsh remark with a 80% chance to hurt the enemy depending on their aura.",
       "speed":        "medium",
