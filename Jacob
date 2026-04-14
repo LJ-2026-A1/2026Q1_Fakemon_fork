@@ -1,5 +1,5 @@
 {
-  "id": "",
+  "id": "Jacob",
   "name": "Conquest",
   "createdBy": "Jacob Cash Kuntz",
   "emoji": "🐲",
@@ -30,8 +30,8 @@
       "name": "Uppercut",
       "desc": "A heavy punch to the jaw",
       "speed": "medium",
-      "damage": 50, 60],
-      "status": confuse,
+      "damage": [50, 60],
+      "status": "confuse",
       "statusChance": 1
     },
 
@@ -49,7 +49,7 @@
       "id": "move_four",
       "name": "Face Smash",
       "desc": "A heavy crushing move to the head,potential for skull crushing",
-      "speed": "Slow",
+      "speed": "slow",
       "damage": [120, 180],
       "status": "confuse",
       "statusChance": 1.0
