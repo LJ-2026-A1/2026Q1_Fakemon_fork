@@ -23,7 +23,7 @@
     },
     {
       "id":           "move_tw",
-      "name":         "Suburban neighborhood privilage",
+      "name":         "Suburban neighborhood privilege",
       "desc":         "A harsh remark with a 80% chance to hurt the enemy depending on their aura.",
       "speed":        "medium",
       "damage": [12, 20],
@@ -51,8 +51,8 @@
     },
     {
       "id":           "move_five",
-      "name":         "📉 Cinder Smoke",
-      "desc":         "Thick smoke clouds the enemy's vision.",
+      "name":         "📉 Self confidence",
+      "desc":         "You think you have aura.",
       "speed":        "medium",
       "damage": [0, 2],
       "status":       "statdwn",
